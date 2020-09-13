@@ -3,7 +3,7 @@ layout: page
 title: Trust-Web 分享科技。
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
+image: 
 imageshadow: true
 ---
 
