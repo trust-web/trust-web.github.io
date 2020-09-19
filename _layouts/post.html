@@ -52,7 +52,9 @@ post_class: post-template
 {% include author-box.html %}
 
 <!-- Comments if not disabled with comments: false -->
-{% include comments.html %}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
 
 <!-- Share -->
 {% include share.html %}
