@@ -52,9 +52,13 @@ post_class: post-template
 {% include author-box.html %}
 
 <!-- Comments if not disabled with comments: false -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
-  <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
-
+<script src="https://utteranc.es/client.js"
+        repo="[trust-web/trust-web.github.io]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 <!-- Related Post -->
 {% include related-posts.html %}
