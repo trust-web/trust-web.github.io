@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Reviewing the best Oscar movies of all time"
+title:  "Reviewing."
 author: john
 categories: [ Lifestyle ]
 tags: [Movies]
-image: assets/images/10.jpg
+image: https://i.loli.net/2020/09/26/gcSviJLPZzRTD8x.jpg/
 description: "My review of Inception movie. Acting, plot and something else in this short description."
 rating: 4.5
 ---
