@@ -62,10 +62,10 @@ kramdown:
 
 # Gitalk
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 7e24fdd4a6823c834977
+  clientSecret: 3a0b43b13d271c2079b567376325b4f843d0c52a
+  repo: trust-web.github.io
+  owner: trust-web
 
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
