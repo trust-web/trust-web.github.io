@@ -18,3 +18,7 @@ comments: false
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
 <input class="btn btn-dark" type="submit" value="Send">
 </form>
+<h1 style="text-align:center">OR</h1>
+<a target="_blank" href="https://www.coolapk.com/u/2282697">Coolapk</a>
+
+​
