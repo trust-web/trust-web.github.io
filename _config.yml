@@ -2,8 +2,8 @@
 name: "Jisen"
 title: "Trust-Web"
 description: "Internet And Technology. "
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'file/1_20201008_102711_0000.png'
+favicon: 'file/1_20201008_102711_0000.png'
 baseurl: /
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'trust-web-github-io'
