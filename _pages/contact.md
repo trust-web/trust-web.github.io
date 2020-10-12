@@ -20,6 +20,6 @@ comments: false
 </form>
 <br>
 <h4 style="text-align:center">OR</h4>
-<a target="_blank" href="https://www.coolapk.com/u/2282697">Coolapk</a>
+<a target="_blank" href="https://www.coolapk.com/u/2282697">Coolapk</a>      <a target="_blank" href="https://trust-web.github.io/feed/">  RSS 订阅</a>
 
 ​
