@@ -3,9 +3,9 @@ layout: page
 title: Projects
 permalink: /projects
 ---
-## KLWP Theme - Gblue
-![1_20201107_132131_0000](https://i.loli.net/2020/11/07/KqT8VOGmSoQDgi7.png)
-<a target="_blank" href="https://cloud.qingstore.cn/#/s/qe3kcO" class="btn btn-dark"> Tingstore下载 &rarr;</a> 
+### KLWP Theme - Gblue
+![1](https://cdn.jsdelivr.net/gh/trust-web/file/p1.png)
+<a target="_blank" href="https://cloud.qingstore.cn/#/s/qe3kcO" class="btn btn-dark"> Qingstore下载 &rarr;</a> 
 <a target="_blank" href="https://cloud.qingstore.cn/#/s/qe3kcO" class="btn btn-dark"> Github下载 &rarr;</a> 
 
 <html>
