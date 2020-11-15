@@ -5,7 +5,7 @@ description: "Internet And Technology. "
 logo: 'file/ic1.png'
 favicon: 'file/ic1.png'
 baseurl: /
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'G-2JNHP71FBL'
 disqus: 'trust-web-github-io'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
