@@ -3,10 +3,19 @@ layout: page
 title: Projects
 permalink: /projects
 ---
+---
+layout: page
+title: Projects
+permalink: /projects
+---
+
+[TOC]
 ### KLWP Theme - Gblue
-![1_20201107_132131_0000](https://kyun.ltyuanfang.cn/tc/2020/11/09/605183f4ec71b.png)
+![1](https://kyun.ltyuanfang.cn/tc/2020/11/09/605183f4ec71b.png)
+<center>
 <a target="_blank" href="https://cloud.qingstore.cn/#/s/qe3kcO" class="btn btn-dark"> Qingstore 下载 &rarr;</a> 
-<a target="_blank" href="https://ws28.cn/f/3xmf36gzc6m" class="btn btn-light"> Wenshushu 下载 815582;</a> 
+<a target="_blank" href="https://ws28.cn/f/3xmf36gzc6m" class="btn btn-light"> Wenshushu 下载 815582</a> 
+<center/>
 
 <html>
 <head>
@@ -14,7 +23,9 @@ permalink: /projects
 </head>
 <body>
  
-<i class="fa fa-circle-o-notch fa-spin"></i> I will upload them later.
+<i class="fa fa-circle-o-notch fa-spin"></i> 静待花开…
  
 </body>
 </html>
+
+编辑于 ```2021-01-09```
