@@ -3,13 +3,9 @@ layout: page
 title: Projects
 permalink: /projects
 ---
----
-layout: page
-title: Projects
-permalink: /projects
----
 
 [TOC]
+
 ### KLWP Theme - Gblue
 ![1](https://kyun.ltyuanfang.cn/tc/2020/11/09/605183f4ec71b.png)
 <center>
@@ -28,4 +24,4 @@ permalink: /projects
 </body>
 </html>
 
-编辑于 ```2021-01-09```
+编辑于 ==2021-01-09==
