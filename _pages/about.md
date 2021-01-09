@@ -6,6 +6,6 @@ comments: false
 image: 
 imageshadow: true
 ---
-<center>https://www.cdn.jsdelivr.net/gh/trust-web/file/<center/>
+<center>[pic](https://cdn.jsdelivr.net/gh/trust-web/file@gh-pages/textic.png)<center/>
 **建设中**。要访问主站，请 <a target="_blank" href="https://trust-web.github.io/" class="btn btn-dark"> 点击 &rarr;</a> 。
 
