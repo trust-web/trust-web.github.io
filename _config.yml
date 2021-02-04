@@ -1,4 +1,4 @@
-# Site
+# 网站信息
 name: "Jisen"
 title: "Trust-Web"
 description: "Internet And Technology. "
@@ -22,7 +22,7 @@ authors:
     email: kek234600@gmail.com
     web: https://trust-web.github.io/
     twitter: /
-    description: "网站的主要建设者。"
+    description: "Owner."
   Chender:
     name: Chender
     display_name: Chender    
@@ -33,7 +33,7 @@ authors:
     twitter: https://www.coolapk.com/u/2282697
     description: ""
 
-# Plugins
+# 插件
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -84,5 +84,10 @@ authorbox: "disabled"
 sass:
   sass_dir: _sass
   style: compressed
+
+# 不蒜子访问统计
+ busuanzi:
+  enabled: true
+  start_date: 2020-12-13
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
