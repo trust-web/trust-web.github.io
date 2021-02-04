@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-  
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
 <title>{{ page.title }} | {{site.name}}</title>
@@ -110,7 +108,7 @@ ga('send', 'pageview');
 
 <!-- 不蒜子访问统计 -->
 {% if site.components.busuanzi.enabled == true and page.visit-stat != 'hidden' and page.layout != 'mindmap' %}
-<script async src="{{ assets_base_url }}/assets/vendor/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<script async src="{{ baseurl }}/assets/busuanzi.pure.mini.js"></script>
 <div class="mobile-hidden" style="margin-top:8px">
   <span id="busuanzi_container_site_pv" style="display:none">
     本站访问量<span id="busuanzi_value_site_pv"></span>次
@@ -121,7 +119,7 @@ ga('send', 'pageview');
   <span id="busuanzi_container_page_pv" style="display:none">
     / 本页访问量<span id="busuanzi_value_page_pv"></span>次
     {% if site.components.busuanzi.start_date %}
-    / 统计始于{{ site.components.busuanzi.start_date }}
+    / 统计始于{ 2020-12-12 }
     {% endif %}
   </span>
 </div>
