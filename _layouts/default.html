@@ -3,7 +3,7 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <!-- CDN 加速 -->
-{% assign assets_base_url = site.url %}{% if site.cdn.jsdelivr.enabled %}{% assign assets_base_url = "https://cdn.jsdelivr.net/gh/" | append: site.repository %} {% endif %}
+{% assign assets_base_url = "/file@gh-pages/" %}{% if site.cdn.jsdelivr.enabled %}{% assign assets_base_url = "https://cdn.jsdelivr.net/gh/file@gh-pages/" %} {% endif %}
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
