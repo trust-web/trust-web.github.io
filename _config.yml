@@ -87,6 +87,6 @@ sass:
 
 # cdn
 cdn:
-  enabled: true
+  enabled: false
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
