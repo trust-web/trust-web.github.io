@@ -22,16 +22,16 @@ authors:
     email: kek234600@gmail.com
     web: https://trust-web.github.io/
     twitter: /
-    description: "网站的主要建设者。"
+    description: "The main creater of this site."
   Chender:
     name: Chender
     display_name: Chender    
     avatar: 'assets/images/chender.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    web: https://www.trust-web.github.io/chender/
     twitter: https://www.coolapk.com/u/2282697
-    description: ""
+    description: "A normal developer."
 
 # Plugins
 plugins:
@@ -87,7 +87,6 @@ sass:
 
 # cdn
 cdn:
-  jsdelivr:
   enabled: true
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
