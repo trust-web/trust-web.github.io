@@ -5,16 +5,16 @@
 <!-- CDN 加速 -->
 {% assign assets_base_url = "" %} {% if site.cdn.enabled %} {% assign assets_base_url = "https://cdn.jsdelivr.net/gh/trust-web/" %} {% endif %}
 
-<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+<link rel="icon" href="{{ assets_base_url }}assets/images/logo.png">
 
 <title>{{ page.title }} | {{site.name}}</title>
 
 {% seo %}
-<link href="{{ assets_base_url }}/assets/css/prism.css" rel="stylesheet">
+<link href="{{ assets_base_url }}assets/css/prism.css" rel="stylesheet">
 
-<link href="{{ assets_base_url }}/assets/css/theme.css" rel="stylesheet">
+<link href="{{ assets_base_url }}assets/css/theme.css" rel="stylesheet">
 
-<script src="{{ assets_base_url }}/assets/js/jquery.min.js"></script>
+<script src="{{ assets_base_url }}assets/js/jquery.min.js"></script>
 
 </head>
 
@@ -79,7 +79,7 @@ ga('send', 'pageview');
     ================================================== -->
    
     <a class="navbar-brand" href="{{ site.baseurl }}/">
-        <img src="{{ assets_base_url }}/{{ site.logo }}" alt="{{ site.name }}">
+        <img src="{{ assets_base_url }}{{ site.logo }}" alt="{{ site.name }}">
     </a>  
    
 
@@ -106,7 +106,7 @@ ga('send', 'pageview');
 
 <!-- 不蒜子访问统计 -->
 {% if site.components.busuanzi.enabled == true and page.visit-stat != 'hidden' and page.layout != 'mindmap' %}
-<script async src="{{ assets_base_url }}/assets/busuanzi.pure.mini.js"></script>
+<script async src="{{ assets_base_url }}assets/busuanzi.pure.mini.js"></script>
 <div class="mobile-hidden" style="margin-top:8px">
   <span id="busuanzi_container_site_pv" style="display:none">
     本站访问量<span id="busuanzi_value_site_pv"></span>次
@@ -139,12 +139,12 @@ ga('send', 'pageview');
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
-<script src="{{ assets_base_url }}/assets/js/prism.js"></script>
+<script src="{{ assets_base_url }}assets/js/prism.js"></script>
 
-<script src="{{ assets_base_url }}/assets/js/theme.js"></script>
+<script src="{{ assets_base_url }}assets/js/theme.js"></script>
 
 {% if site.lazyimages == "enabled" %}
-<script src="{{ assets_base_url }}/assets/js/lazyload.js"></script>
+<script src="{{ assets_base_url }}assets/js/lazyload.js"></script>
 {% endif %}
 
 </body>
